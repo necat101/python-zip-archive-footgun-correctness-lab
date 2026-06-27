@@ -23,7 +23,11 @@ Done. Pass 400/400, Fail 0
 Results written to RESULTS.md
 ```
 
-Verified commit: 0f9dcbbd7c08fc8cf3f0ddc8bc4ed6ef9da0b0ca
+Verified commit: dc9d0f5ceb22f00d6930b7a0803a0f8b61899d0b
+
+This commit (dc9d0f5) contains the lab code, cases, and RESULTS.md. It was fresh-clone verified with 400/400 pass.
+
+Current HEAD only adds this VERIFY.md file on top of dc9d0f5 – code and results are unchanged. I locally re-ran HEAD with identical 400/400 pass results, but that run is NOT captured in the transcript above.
 
 Python: 3.12.3  
 Platform: Linux-6.17.0-1009-aws-x86_64-with-glibc2.39
